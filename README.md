@@ -1,3 +1,3 @@
 # Python_mokymai
 
-Čia yra Python kurso mokomoji medžiaga. Paskaitų metu saugosime rašomą kodą.
+This is a repository for Python Data Analytics course.
